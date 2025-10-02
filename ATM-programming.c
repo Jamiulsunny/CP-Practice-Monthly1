@@ -1,6 +1,4 @@
-
-
-
+                                                                       This is a ATM program.
 #include <stdio.h>
 
 int main() {
@@ -48,4 +46,5 @@ int main() {
 
 
 }
+
 
